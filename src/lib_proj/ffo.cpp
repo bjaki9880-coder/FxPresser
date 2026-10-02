@@ -1,6 +1,7 @@
 ﻿#ifndef FXPRESSER_PATCH_ONLY
 #include "helper/helper.h"
 #include <imgui.h>
+#include <chrono>
 #include <imgui_impl_opengl2.h>
 #include <imgui_impl_win32.h>
 #endif
